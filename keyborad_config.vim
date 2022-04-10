@@ -1,7 +1,7 @@
 let mapleader=" "          " 设置leader键
 
 
-nmap H 0
+nmap H ^
 nmap L $
 
 nmap <silent><leader>tt :tabnext<CR>
